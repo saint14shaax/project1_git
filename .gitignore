@@ -1,2 +1,3 @@
 *.log 
 !luther.log 
+my_token.txt
